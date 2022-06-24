@@ -1,0 +1,15 @@
+.contenedorCards{
+    background-color: yellow;
+}
+
+.row{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    padding: 4rem;
+}
+
+.card {
+    width: 75%;
+    margin: 0 auto;
+}
