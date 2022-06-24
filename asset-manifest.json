@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/los-simpsons/static/css/main.773f1934.chunk.css",
+    "main.js": "/los-simpsons/static/js/main.3b422ac6.chunk.js",
+    "main.js.map": "/los-simpsons/static/js/main.3b422ac6.chunk.js.map",
+    "runtime-main.js": "/los-simpsons/static/js/runtime-main.f9ba8be9.js",
+    "runtime-main.js.map": "/los-simpsons/static/js/runtime-main.f9ba8be9.js.map",
+    "static/css/2.4be38407.chunk.css": "/los-simpsons/static/css/2.4be38407.chunk.css",
+    "static/js/2.0b9985b5.chunk.js": "/los-simpsons/static/js/2.0b9985b5.chunk.js",
+    "static/js/2.0b9985b5.chunk.js.map": "/los-simpsons/static/js/2.0b9985b5.chunk.js.map",
+    "index.html": "/los-simpsons/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/los-simpsons/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.773f1934.chunk.css.map": "/los-simpsons/static/css/main.773f1934.chunk.css.map",
+    "static/js/2.0b9985b5.chunk.js.LICENSE.txt": "/los-simpsons/static/js/2.0b9985b5.chunk.js.LICENSE.txt",
+    "static/media/carrousel-3.424560c4.jpg": "/los-simpsons/static/media/carrousel-3.424560c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9ba8be9.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.0b9985b5.chunk.js",
+    "static/css/main.773f1934.chunk.css",
+    "static/js/main.3b422ac6.chunk.js"
+  ]
+}
