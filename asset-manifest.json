@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/los-simpsons/static/css/main.773f1934.chunk.css",
-    "main.js": "/los-simpsons/static/js/main.3b422ac6.chunk.js",
-    "main.js.map": "/los-simpsons/static/js/main.3b422ac6.chunk.js.map",
+    "main.js": "/los-simpsons/static/js/main.a1e5cc62.chunk.js",
+    "main.js.map": "/los-simpsons/static/js/main.a1e5cc62.chunk.js.map",
     "runtime-main.js": "/los-simpsons/static/js/runtime-main.f9ba8be9.js",
     "runtime-main.js.map": "/los-simpsons/static/js/runtime-main.f9ba8be9.js.map",
     "static/css/2.4be38407.chunk.css": "/los-simpsons/static/css/2.4be38407.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.0b9985b5.chunk.js",
     "static/css/main.773f1934.chunk.css",
-    "static/js/main.3b422ac6.chunk.js"
+    "static/js/main.a1e5cc62.chunk.js"
   ]
 }
